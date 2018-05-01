@@ -1,2 +1,5 @@
-# java-design-patterns
-Full comcept and implementations of the 23 designs
+# Design Patters - Java Implementation
+
+This is a simple project to study the 23 design partters. 
+
+
